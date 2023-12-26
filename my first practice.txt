@@ -1,0 +1,22 @@
+
+
+
+
+
+ 1  apt update - y
+    2  apt update-y
+    3  apt update -y
+    4  clear
+    5  ls
+    6  aws
+    7  apt install awscli
+    8  clear
+    9  aws
+   10  clear
+   11  vim awsadvance.sh
+   12  ping google.com
+   13  clear
+   14  chmod777 awsresoursetracker.sh
+   15  chmod 777 awsresoursetracker.sh
+   16  chmod 777 awsadvance.sh
+   17  history
